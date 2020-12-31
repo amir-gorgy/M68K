@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Mon Nov 30 21:01:17 2020
+Quartus II 64-Bit Version : 15.0.0 Build 145 04/22/2015 SJ Full Version
+Revision Name : MC68K
+Top-level Entity Name : MC68K
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 3659
+Total pins : 239
+Total virtual pins : 0
+Total block memory bits : 2,361,200
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1
+Total DLLs : 0

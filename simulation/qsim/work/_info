@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Courses/Elec 465 - Microcomputer systems design/M68k Systems/M68kV6.0 - 800by480 - DE1 for 465 students Q15.0/simulation/qsim
+vMC68K
+Z0 !s110 1602877650
+!i10b 1
+!s100 TU[ZT9fI;PJAWfPj3S]V80
+IUK;^TEa=bPOj5a=<T_o_a3
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/mirot/OneDrive/Desktop/UBC/Year4/CPEN 412/Assignment2/Assignment_2_Quartus/simulation/qsim
+w1602877647
+8MC68K.vo
+FMC68K.vo
+L0 32
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1602877648.704000
+!s107 MC68K.vo|
+!s90 -work|work|MC68K.vo|
+!i113 1
+Z4 o-work work
+n@m@c68@k
+vMC68K_vlg_check_tst
+R0
+!i10b 1
+!s100 BE_fTeAO9jI1TJLgQfDDj0
+I1K2OdIKoj<k4=gX[Cn]=V1
+R1
+R2
+Z5 w1602877642
+Z6 8Waveform68k-V15.0-DE1SoC.vwf.vt
+Z7 FWaveform68k-V15.0-DE1SoC.vwf.vt
+L0 82
+R3
+r1
+!s85 0
+31
+Z8 !s108 1602877650.341000
+Z9 !s107 Waveform68k-V15.0-DE1SoC.vwf.vt|
+Z10 !s90 -work|work|Waveform68k-V15.0-DE1SoC.vwf.vt|
+!i113 1
+R4
+n@m@c68@k_vlg_check_tst
+vMC68K_vlg_sample_tst
+R0
+!i10b 1
+!s100 c43RoeQOQ5B@bj:Mc51DO2
+IN?bB2Um;h^df^=M2;S`Iz3
+R1
+R2
+R5
+R6
+R7
+L0 30
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+n@m@c68@k_vlg_sample_tst
+vMC68K_vlg_vec_tst
+R0
+!i10b 1
+!s100 OLenf<79^FN`mDaLIAmY=2
+Ionh8mWo^JCaZZHGFkJo=X1
+R1
+R2
+R5
+R6
+R7
+L0 2366
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+n@m@c68@k_vlg_vec_tst
